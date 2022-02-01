@@ -9,7 +9,7 @@
         "pyrogram"
     ],
     "website": "https://t.me/shukurenai007",
-    "repository": "https://github.com/shukurenai007/MusicPlayer",
+    "repository": "https://github.com/Praneet207/MusicPlayer",
     "success_url": "https://t.me/DeepakJack007",
     "env": {
         "API_ID": {
